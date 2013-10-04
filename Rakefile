@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "geometry-bgw"
   gem.homepage = "http://github.com/bengwinter/geometry-bgw"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Geometry gem}
+  gem.description = %Q{Gem for geometry}
   gem.email = "ben.g.winter@gmail.com"
   gem.authors = ["Ben Winter"]
   # dependencies defined in Gemfile
